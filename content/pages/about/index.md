@@ -1,8 +1,8 @@
 +++
 title = "About me"
 draft = false
+image = "lebron_king_james_lakers_wallpaper_by_cgraphicarts_dcu5eyv-pre-1-.jpg"
 description = ""
-image = "/img/default-author.jpg"
 +++
 ![](/img/default-author.jpg)
 
