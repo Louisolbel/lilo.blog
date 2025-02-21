@@ -5,6 +5,8 @@ draft = true
 pinned = false
 tags = ["Entwurf"]
 image = "lebron_king_james_lakers_wallpaper_by_cgraphicarts_dcu5eyv-pre-1-.jpg"
+description = "What are Streetlights"
+footnotes = "llol"
 +++
 
 
