@@ -17,11 +17,7 @@ Im Interview werden eindrückliche Erfahrungen eines an Glaukom erkrankten Mensc
 Die Aare fliesst langsam an uns vorbei. Die Boote bewegen sich mit der Strömung und die Ketten rasseln an den Anlegepfosten. Die Sonne scheint silbrig auf das grüne Wasser und wärmt uns das Gesicht. Die Sitzbank ist kühl und die feuchte Luft lässt mich frösteln. Der Uferweg ist noch feucht vom nächtlichen Regen. Peter Widmer ist mir freundlich zugewandt, sein Blick ist klar, so dass man nicht vermuten würde, dass er mich nur noch in Umrissen er-kennen kann.
 
 {{<box>}}
-Name: Peter Widmer
-
-Alter: 75 Jahre
-
-Aktivitäten: Um die Welt reisen
+Peter Widmer wurde 1949. Er ist seit zwölf Jahren im Ruhestand und bereist seither mit seiner Ehefrau regelmässig die Welt. Das Interview fand im ersten Teil in Büren a. A. und in einem zweiten Teil über WhatsApp statt, da sich Peter Widmer unterdessen in Costa Rica befindet. 
 {{</box>}}
 
 **Louis:** **Wie hast du bemerkt, dass du die Diagnose „Glaukom“ hast?** 
@@ -32,7 +28,7 @@ Aktivitäten: Um die Welt reisen
 
 **Wie hat sich deine Selbstwahrnehmung und Identität seit der Diagnose verändert?** Die Diagnose ist das eine, da besteht noch Hoffnung, dass es nichts    Schlimmes ist. Erst als der Augendruck trotz der Tropfen zu hoch blieb, hat sich einiges geändert. Ich musste eine Operation machen und wusste, dass mein Sehnerv bereits geschädigt ist, es unheilbar ist und nie mehr besser wird. Da muss man sich damit abfinden und hoffen, dass es langsam voranschreitet, bis es sicher schlimmer wird. 
 
-![Peter Widmer wurde 1949. Er ist seit zwölf Jahren im Ruhestand und bereist seither mit seiner Ehefrau regelmässig die Welt. Das Interview fand im ersten Teil in Büren a. A. und in einem zweiten Teil über WhatsApp statt, da sich Peter Widmer unterdessen in Costa Rica befindet. ](herunterladen.png)
+![Bild aus Costa Rica](herunterladen.png)
 
 **Welche Herausforderungen hast du aufgrund der Sehstörung erlebt?** Das Einschneidendste war, als der Augenarzt gesagt hat, dass ich nicht mehr Autofahren kann. Wir wohnen auf dem Land ohne ÖV, da kannst du entweder eine halbe Stunde zu Fuss gehen oder du hast jemanden der dich fährt. Du kannst auch nicht mehr rennen oder schnell die Treppe hochspringen. Es muss jetzt alles langsam gehen. 
 
