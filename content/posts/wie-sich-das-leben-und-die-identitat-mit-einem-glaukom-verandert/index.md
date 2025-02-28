@@ -6,7 +6,9 @@ pinned = false
 tags = ["Identität", "Glaukom"]
 image = "r.jpeg"
 +++
+{{<lead>}}
 Im Interview werden eindrückliche Erfahrungen eines an Glaukom erkrankten Menschen geschildert. Themen wie die initiale Hoffnung, Abhängigkeit und Verzweiflung, aber auch Unterstützung und Zuversicht kommen zum Ausdruck.
+{{</lead>}}
 
 Die Aare fliesst langsam an uns vorbei. Die Boote bewegen sich mit der Strömung und die Ketten rasseln an den Anlegepfosten. Die Sonne scheint silbrig auf das grüne Wasser und wärmt uns das Gesicht. Die Sitzbank ist kühl und die feuchte Luft lässt mich frösteln. Der Uferweg ist noch feucht vom nächtlichen Regen. Peter Widmer ist mir freundlich zugewandt, sein Blick ist klar, so dass man nicht vermuten würde, dass er mich nur noch in Umrissen er-kennen kann.
 
