@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/400px-lebron_james_3409937543-1-.jpg"
+icon = "/media/9a6084e034624aed8d8e89473847a07d.jpg"
 logo = "/media/lebron_james_-51960276445-_-cropped-1-.jpg"
-image = "/media/lebron_king_james_lakers_wallpaper_by_cgraphicarts_dcu5eyv-pre-1-.jpg"
+image = "/media/r.jpeg"
 color = "#151414"
 +++
