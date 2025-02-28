@@ -13,6 +13,7 @@ Im Interview werden eindrückliche Erfahrungen eines an Glaukom erkrankten Mensc
 Die Aare fliesst langsam an uns vorbei. Die Boote bewegen sich mit der Strömung und die Ketten rasseln an den Anlegepfosten. Die Sonne scheint silbrig auf das grüne Wasser und wärmt uns das Gesicht. Die Sitzbank ist kühl und die feuchte Luft lässt mich frösteln. Der Uferweg ist noch feucht vom nächtlichen Regen. Peter Widmer ist mir freundlich zugewandt, sein Blick ist klar, so dass man nicht vermuten würde, dass er mich nur noch in Umrissen er-kennen kann.
 
 Interview
+
 **Louis:** Wie hast du bemerkt, dass du die Diagnose „Glaukom“ hast?
 
 **Peter Widmer:** Bei meinem Bruder wurde ein zu hoher Augeninnendruck festgestellt, welchen er seither mit Augentropfen behandeln muss. Da ein Glaukom vererbbar ist, liess ich mich auch untersuchen. Leider wurde bei mir ebenfalls ein zu hoher Augeninnendruck festgestellt, so dass ich seither Augentropfen zur Drucksenkung nehmen muss. 
