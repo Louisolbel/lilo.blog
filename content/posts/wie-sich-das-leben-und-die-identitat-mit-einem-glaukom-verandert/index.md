@@ -47,14 +47,3 @@ Ich bin jedenfalls sehr froh um die Unterstützung von Veronique (Ehefrau). Sie 
 **Hast du Ratschläge für andere Betroffene, die ebenfalls die Diagnose haben?** Lebe nicht allein, wenn du keine Unterstützung hast, wird es schwierig. Und ich glaube, das ist auch in der Natur von uns Menschen.
 
 ![Peter Widmer wurde 1949. Er ist seit zwölf Jahren im Ruhestand und bereist seither mit seiner Ehefrau regelmässig die Welt. Das Interview fand im ersten Teil in Büren a. A. und in einem zweiten Teil über WhatsApp statt, da sich Peter Widmer unterdessen in Costa Rica befindet. ](herunterladen-1-.png)
-
-{{</box>}}
-
-Name: Peter Widmer
-
-Alter 75 Jahre
-
-Pensioniert: Seit 12 Jahren
-
-Hobbys: Reisen auf Südamerika
-{{</box>}}
