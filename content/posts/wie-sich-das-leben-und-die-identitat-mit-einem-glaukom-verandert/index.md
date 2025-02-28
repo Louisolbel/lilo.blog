@@ -6,6 +6,10 @@ pinned = false
 tags = ["Identität", "Glaukom"]
 image = "r.jpeg"
 +++
+![]()
+
+![]()
+
 {{<lead>}}
 Im Interview werden eindrückliche Erfahrungen eines an Glaukom erkrankten Menschen geschildert. Themen wie die initiale Hoffnung, Abhängigkeit und Verzweiflung, aber auch Unterstützung und Zuversicht kommen zum Ausdruck.
 {{</lead>}}
@@ -32,10 +36,6 @@ Ich bin jedenfalls sehr froh um die Unterstützung von Veronique (Ehefrau). Sie 
 
 **Hast du aufgrund der Krankheit, Veränderungen im Sozialen Leben erfahren?** Die fremden Menschen sind wie vorher, sie wissen ja nichts, da lässt man sich nichts anmerken. Die Freunde habe ich angesprochen, sie sind besorgt, dass hilft zwar nicht, aber sie haben Verständnis. 
 
-{{<box>}}
-
-{{</box>}}
-
 **Welche speziellen Anpassungen hast du daheim vorgenommen, um besser zurechtzukommen? Du hast mir letztes Mal gesagt, dass ihr zu Hause alles sehr strukturiert habt.** Genau, von dieser Pingeligkeit werde ich jetzt belohnt, dass ist das, was eigentlich hilft. 
 
 **Wie gehst du mit der Angst von einer möglichen Erblindung um?** Ja, das geht immer durch den Kopf. Irgendwann kann es kommen, vielleicht bin ich tot, bevor es kommt. Alles ist offen und deshalb mache ich mir noch keine Gedanken. 
@@ -45,3 +45,7 @@ Ich bin jedenfalls sehr froh um die Unterstützung von Veronique (Ehefrau). Sie 
 *Ja, dass man im Leben nie aufgibt und sich bei jeder Situation die unmöglich erscheint, sagt, dass es immer irgendwo eine Tür gibt.* Es gibt immer eine Lösung, für jeden Bereich. Ich habe nie die Lust verloren und lebe wie vorher. Einfach langsamer, weil meine Augen mir zu wenig Sicherheit geben, um schnell zu Leben. 
 
 **Hast du Ratschläge für andere Betroffene, die ebenfalls die Diagnose haben?** Lebe nicht allein, wenn du keine Unterstützung hast, wird es schwierig. Und ich glaube, das ist auch in der Natur von uns Menschen.
+
+{{<box>}}
+
+![Peter Widmer wurde 1949. Er ist seit zwölf Jahren im Ruhestand und bereist seither mit seiner Ehefrau regelmässig die Welt. Das Interview fand im ersten Teil in Büren a. A. und in einem zweiten Teil über WhatsApp statt, da sich Peter Widmer unterdessen in Costa Rica befindet. ](whatsapp-bild-2025-02-23-um-21.42.29_46a83ead.jpg)
