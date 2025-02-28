@@ -28,16 +28,20 @@ Ich bin jedenfalls sehr froh um die Unterstützung von Veronique (Ehefrau). Sie 
 
 **Inwiefern hat die Diagnose psychische Auswirkungen gehabt?** Es gibt Momente, in denen man verzweifelt. Da denkt man, ich habe mein Leben gelebt. Man regt sich auf, weil einem vieles nicht mehr gelingt. Und da wäre es fatal, wenn man alleine Leben würde, ohne die positiven Impulse von aussen, so dass man sich sogar umbringen würde.
 
+> *Ja, dass man im Leben nie aufgibt und sich bei jeder Situation die unmöglich erscheint, sagt, dass es immer irgendwo eine Tür gibt.* 
+
+
+
 **Hast du aufgrund der Krankheit, Veränderungen im Sozialen Leben erfahren?** Die fremden Menschen sind wie vorher, sie wissen ja nichts, da lässt man sich nichts anmerken. Die Freunde habe ich angesprochen, sie sind besorgt, dass hilft zwar nicht, aber sie haben Verständnis. 
 
 **Welche speziellen Anpassungen hast du daheim vorgenommen, um besser zurechtzukommen? Du hast mir letztes Mal gesagt, dass ihr zu Hause alles sehr strukturiert habt.** Genau, von dieser Pingeligkeit werde ich jetzt belohnt, dass ist das, was eigentlich hilft. 
 
 **Wie gehst du mit der Angst von einer möglichen Erblindung um?** Ja, das geht immer durch den Kopf. Irgendwann kann es kommen, vielleicht bin ich tot, bevor es kommt. Alles ist offen und deshalb mache ich mir noch keine Gedanken. 
 
-> *Ja, dass man im Leben nie aufgibt und sich bei jeder Situation die unmöglich erscheint, sagt, dass es immer irgendwo eine Tür gibt.* 
+>
 
 **Was hat dir geholfen die Selbstständigkeit zu bewahren? Was hast du für Strategien?**  
 
-Es gibt immer eine Lösung, für jeden Bereich. Ich habe nie die Lust verloren und lebe wie vorher. Einfach langsamer, weil meine Augen mir zu wenig Sicherheit geben, um schnell zu Leben. 
+*Ja, dass man im Leben nie aufgibt und sich bei jeder Situation die unmöglich erscheint, sagt, dass es immer irgendwo eine Tür gibt.* Es gibt immer eine Lösung, für jeden Bereich. Ich habe nie die Lust verloren und lebe wie vorher. Einfach langsamer, weil meine Augen mir zu wenig Sicherheit geben, um schnell zu Leben. 
 
 **Hast du Ratschläge für andere Betroffene, die ebenfalls die Diagnose haben?** Lebe nicht allein, wenn du keine Unterstützung hast, wird es schwierig. Und ich glaube, das ist auch in der Natur von uns Menschen.
