@@ -32,7 +32,9 @@ Ich bin jedenfalls sehr froh um die Unterstützung von Veronique (Ehefrau). Sie 
 
 **Hast du aufgrund der Krankheit, Veränderungen im Sozialen Leben erfahren?** Die fremden Menschen sind wie vorher, sie wissen ja nichts, da lässt man sich nichts anmerken. Die Freunde habe ich angesprochen, sie sind besorgt, dass hilft zwar nicht, aber sie haben Verständnis. 
 
+{{<box>}}
 
+{{</box>}}
 
 **Welche speziellen Anpassungen hast du daheim vorgenommen, um besser zurechtzukommen? Du hast mir letztes Mal gesagt, dass ihr zu Hause alles sehr strukturiert habt.** Genau, von dieser Pingeligkeit werde ich jetzt belohnt, dass ist das, was eigentlich hilft. 
 
