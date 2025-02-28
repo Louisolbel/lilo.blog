@@ -24,7 +24,7 @@ Die Aare fliesst langsam an uns vorbei. Die Boote bewegen sich mit der Strömung
 
 **Wie hat sich deine Selbstwahrnehmung und Identität seit der Diagnose verändert?** Die Diagnose ist das eine, da besteht noch Hoffnung, dass es nichts    Schlimmes ist. Erst als der Augendruck trotz der Tropfen zu hoch blieb, hat sich einiges geändert. Ich musste eine Operation machen und wusste, dass mein Sehnerv bereits geschädigt ist, es unheilbar ist und nie mehr besser wird. Da muss man sich damit abfinden und hoffen, dass es langsam voranschreitet, bis es sicher schlimmer wird. 
 
-![Peter Widmer wurde 1949. Er ist seit zwölf Jahren im Ruhestand und bereist seither mit seiner Ehefrau regelmässig die Welt. Das Interview fand im ersten Teil in Büren a. A. und in einem zweiten Teil über WhatsApp statt, da sich Peter Widmer unterdessen in Costa Rica befindet. ](herunterladen-1-.png)
+![Peter Widmer wurde 1949. Er ist seit zwölf Jahren im Ruhestand und bereist seither mit seiner Ehefrau regelmässig die Welt. Das Interview fand im ersten Teil in Büren a. A. und in einem zweiten Teil über WhatsApp statt, da sich Peter Widmer unterdessen in Costa Rica befindet. ](herunterladen.png)
 
 **Welche Herausforderungen hast du aufgrund der Sehstörung erlebt?** Das Einschneidendste war, als der Augenarzt gesagt hat, dass ich nicht mehr Autofahren kann. Wir wohnen auf dem Land ohne ÖV, da kannst du entweder eine halbe Stunde zu Fuss gehen oder du hast jemanden der dich fährt. Du kannst auch nicht mehr rennen oder schnell die Treppe hochspringen. Es muss jetzt alles langsam gehen. 
 
