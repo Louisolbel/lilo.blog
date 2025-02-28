@@ -6,13 +6,11 @@ pinned = false
 tags = ["Identität", "Glaukom"]
 image = "r.jpeg"
 +++
-**Lead**
+
 Im Interview werden eindrückliche Erfahrungen eines an Glaukom erkrankten Menschen geschildert. Themen wie die initiale Hoffnung, Abhängigkeit und Verzweiflung, aber auch Unterstützung und Zuversicht kommen zum Ausdruck.
 
-**Interviewatmosphäre**
-Die Aare fliesst langsam an uns vorbei. Die Boote bewegen sich mit der Strömung und die Ketten rasseln an den Anlegepfosten. Die Sonne scheint silbrig auf das grüne Wasser und wärmt uns das Gesicht. Die Sitzbank ist kühl und die feuchte Luft lässt mich frösteln. Der Uferweg ist noch feucht vom nächtlichen Regen. Peter Widmer ist mir freundlich zugewandt, sein Blick ist klar, so dass man nicht vermuten würde, dass er mich nur noch in Umrissen er-kennen kann.
 
-**Interview**
+Die Aare fliesst langsam an uns vorbei. Die Boote bewegen sich mit der Strömung und die Ketten rasseln an den Anlegepfosten. Die Sonne scheint silbrig auf das grüne Wasser und wärmt uns das Gesicht. Die Sitzbank ist kühl und die feuchte Luft lässt mich frösteln. Der Uferweg ist noch feucht vom nächtlichen Regen. Peter Widmer ist mir freundlich zugewandt, sein Blick ist klar, so dass man nicht vermuten würde, dass er mich nur noch in Umrissen er-kennen kann.
 
 **Louis:** **Wie hast du bemerkt, dass du die Diagnose „Glaukom“ hast?** 
 
@@ -36,6 +34,10 @@ Ich bin jedenfalls sehr froh um die Unterstützung von Veronique (Ehefrau). Sie 
 
 **Wie gehst du mit der Angst von einer möglichen Erblindung um?** Ja, das geht immer durch den Kopf. Irgendwann kann es kommen, vielleicht bin ich tot, bevor es kommt. Alles ist offen und deshalb mache ich mir noch keine Gedanken. 
 
-**Was hat dir geholfen die Selbstständigkeit zu bewahren? Was hast du für Strategien?**  *Ja, dass man im Leben nie aufgibt und sich bei jeder Situation die unmöglich erscheint, sagt, dass es immer irgendwo eine Tür gibt.* Es gibt immer eine Lösung, für jeden Bereich. Ich habe nie die Lust verloren und lebe wie vorher. Einfach langsamer, weil meine Augen mir zu wenig Sicherheit geben, um schnell zu Leben. 
+> *Ja, dass man im Leben nie aufgibt und sich bei jeder Situation die unmöglich erscheint, sagt, dass es immer irgendwo eine Tür gibt.* 
+
+**Was hat dir geholfen die Selbstständigkeit zu bewahren? Was hast du für Strategien?**  
+
+Es gibt immer eine Lösung, für jeden Bereich. Ich habe nie die Lust verloren und lebe wie vorher. Einfach langsamer, weil meine Augen mir zu wenig Sicherheit geben, um schnell zu Leben. 
 
 **Hast du Ratschläge für andere Betroffene, die ebenfalls die Diagnose haben?** Lebe nicht allein, wenn du keine Unterstützung hast, wird es schwierig. Und ich glaube, das ist auch in der Natur von uns Menschen.
