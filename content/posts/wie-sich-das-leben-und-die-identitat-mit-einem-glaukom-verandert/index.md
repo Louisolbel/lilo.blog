@@ -6,9 +6,7 @@ pinned = false
 tags = ["Identität", "Glaukom"]
 image = "r.jpeg"
 +++
-
 Im Interview werden eindrückliche Erfahrungen eines an Glaukom erkrankten Menschen geschildert. Themen wie die initiale Hoffnung, Abhängigkeit und Verzweiflung, aber auch Unterstützung und Zuversicht kommen zum Ausdruck.
-
 
 Die Aare fliesst langsam an uns vorbei. Die Boote bewegen sich mit der Strömung und die Ketten rasseln an den Anlegepfosten. Die Sonne scheint silbrig auf das grüne Wasser und wärmt uns das Gesicht. Die Sitzbank ist kühl und die feuchte Luft lässt mich frösteln. Der Uferweg ist noch feucht vom nächtlichen Regen. Peter Widmer ist mir freundlich zugewandt, sein Blick ist klar, so dass man nicht vermuten würde, dass er mich nur noch in Umrissen er-kennen kann.
 
@@ -30,15 +28,13 @@ Ich bin jedenfalls sehr froh um die Unterstützung von Veronique (Ehefrau). Sie 
 
 > *Ja, dass man im Leben nie aufgibt und sich bei jeder Situation die unmöglich erscheint, sagt, dass es immer irgendwo eine Tür gibt.* 
 
-
-
 **Hast du aufgrund der Krankheit, Veränderungen im Sozialen Leben erfahren?** Die fremden Menschen sind wie vorher, sie wissen ja nichts, da lässt man sich nichts anmerken. Die Freunde habe ich angesprochen, sie sind besorgt, dass hilft zwar nicht, aber sie haben Verständnis. 
+
+
 
 **Welche speziellen Anpassungen hast du daheim vorgenommen, um besser zurechtzukommen? Du hast mir letztes Mal gesagt, dass ihr zu Hause alles sehr strukturiert habt.** Genau, von dieser Pingeligkeit werde ich jetzt belohnt, dass ist das, was eigentlich hilft. 
 
 **Wie gehst du mit der Angst von einer möglichen Erblindung um?** Ja, das geht immer durch den Kopf. Irgendwann kann es kommen, vielleicht bin ich tot, bevor es kommt. Alles ist offen und deshalb mache ich mir noch keine Gedanken. 
-
->
 
 **Was hat dir geholfen die Selbstständigkeit zu bewahren? Was hast du für Strategien?**  
 
