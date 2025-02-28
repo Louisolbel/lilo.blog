@@ -16,6 +16,14 @@ Im Interview werden eindrückliche Erfahrungen eines an Glaukom erkrankten Mensc
 
 Die Aare fliesst langsam an uns vorbei. Die Boote bewegen sich mit der Strömung und die Ketten rasseln an den Anlegepfosten. Die Sonne scheint silbrig auf das grüne Wasser und wärmt uns das Gesicht. Die Sitzbank ist kühl und die feuchte Luft lässt mich frösteln. Der Uferweg ist noch feucht vom nächtlichen Regen. Peter Widmer ist mir freundlich zugewandt, sein Blick ist klar, so dass man nicht vermuten würde, dass er mich nur noch in Umrissen er-kennen kann.
 
+{{<box>}}
+Name: Peter Widmer
+
+Alter: 75 Jahre
+
+Aktivitäten: Um die Welt reisen
+{{</box>}}
+
 **Louis:** **Wie hast du bemerkt, dass du die Diagnose „Glaukom“ hast?** 
 
 **Peter Widmer:** Bei meinem Bruder wurde ein zu hoher Augeninnendruck festgestellt, welchen er seither mit Augentropfen behandeln muss. Da ein Glaukom vererbbar ist, liess ich mich auch untersuchen. Leider wurde bei mir ebenfalls ein zu hoher Augeninnendruck festgestellt, so dass ich seither Augentropfen zur Drucksenkung nehmen muss. 
@@ -44,6 +52,6 @@ Ich bin jedenfalls sehr froh um die Unterstützung von Veronique (Ehefrau). Sie 
 
 **Was hat dir geholfen die Selbstständigkeit zu bewahren? Was hast du für Strategien?**  
 
-*Ja, dass man im Leben nie aufgibt und sich bei jeder Situation die unmöglich erscheint, sagt, dass es immer irgendwo eine Tür gibt.* Es gibt immer eine Lösung, für jeden Bereich. Ich habe nie die Lust verloren und lebe wie vorher. Einfach langsamer, weil meine Augen mir zu wenig Sicherheit geben, um schnell zu Leben. 
+Ja, dass man im Leben nie aufgibt und sich bei jeder Situation die unmöglich erscheint, sagt, dass es immer irgendwo eine Tür gibt*.* Es gibt immer eine Lösung, für jeden Bereich. Ich habe nie die Lust verloren und lebe wie vorher. Einfach langsamer, weil meine Augen mir zu wenig Sicherheit geben, um schnell zu Leben. 
 
 **Hast du Ratschläge für andere Betroffene, die ebenfalls die Diagnose haben?** Lebe nicht allein, wenn du keine Unterstützung hast, wird es schwierig. Und ich glaube, das ist auch in der Natur von uns Menschen.
