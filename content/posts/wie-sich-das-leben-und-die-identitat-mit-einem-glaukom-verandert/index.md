@@ -6,7 +6,7 @@ pinned = false
 tags = ["Identität", "Glaukom"]
 image = "r.jpeg"
 +++
-![](herunterladen-2-.png)
+![Peter Widmer in Costa Rica](herunterladen-2-.png)
 
 ![]()
 
