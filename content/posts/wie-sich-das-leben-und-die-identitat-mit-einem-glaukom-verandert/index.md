@@ -38,7 +38,7 @@ Peter Widmer wurde 1949 auf dem Längenberg geboren. Er ist seit zwölf Jahren i
 
 **Inwiefern hat die Diagnose psychische Auswirkungen gehabt?** Es gibt Momente, in denen man verzweifelt. Da denkt man, ich habe mein Leben gelebt. Man regt sich auf, weil einem vieles nicht mehr gelingt. Und da wäre es fatal, wenn man alleine Leben würde, ohne die positiven Impulse von aussen, so dass man sich sogar umbringen würde.
 
-> *Ja, dass man im Leben nie aufgibt und sich bei jeder Situation die unmöglich erscheint, sagt, dass es immer irgendwo eine Tür gibt.* 
+> Ja, dass man im Leben nie aufgibt und sich bei jeder Situation die unmöglich erscheint, sagt, dass es immer irgendwo eine Tür gibt.* 
 
 **Hast du aufgrund der Krankheit, Veränderungen im Sozialen Leben erfahren?** Die fremden Menschen sind wie vorher, sie wissen ja nichts, da lässt man sich nichts anmerken. Die Freunde habe ich angesprochen, sie sind besorgt, dass hilft zwar nicht, aber sie haben Verständnis. 
 
