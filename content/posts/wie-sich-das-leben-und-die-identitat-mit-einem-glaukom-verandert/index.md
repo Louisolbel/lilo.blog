@@ -26,7 +26,7 @@ Peter Widmer wurde 1949. Er ist seit zwölf Jahren im Ruhestand und bereist seit
 
 **Wie hat die Diagnose bis jetzt dein tägliches Leben beeinflusst?** Die Abhängigkeit dieser Tropfen, das ist eigentlich die grösste Beeinflussung. Man darf sie nie vergessen, morgens und abends, selbst wenn man auf Reisen ist. Man muss sie immer mitführen und nach Möglichkeit im Kühlschrank aufbewahren. Man ist also immer zeitlich gebunden und muss genügend Reserve haben. 
 
-**Wie hat sich deine Selbstwahrnehmung und Identität seit der Diagnose verändert?** Die Diagnose ist das eine, da besteht noch Hoffnung, dass es nichts    Schlimmes ist. Erst als der Augendruck trotz der Tropfen zu hoch blieb, hat sich einiges geändert. Ich musste eine Operation machen und wusste, dass mein Sehnerv bereits geschädigt ist, es unheilbar ist und nie mehr besser wird. Da muss man sich damit abfinden und hoffen, dass es langsam voranschreitet, bis es sicher schlimmer wird. 
+**Wie hat sich deine Selbstwahrnehmung und Identität seit der Diagnose verändert?** Die Diagnose ist das eine, da besteht noch Hoffnung, dass es nichts Schlimmes ist. Erst als der Augendruck trotz der Tropfen zu hoch blieb, hat sich einiges geändert. Ich musste eine Operation machen und wusste, dass mein Sehnerv bereits geschädigt ist, es unheilbar ist und nie mehr besser wird. Da muss man sich damit abfinden und hoffen, dass es langsam voranschreitet, bis es sicher schlimmer wird. 
 
 ![Bild aus Costa Rica](herunterladen.png)
 
