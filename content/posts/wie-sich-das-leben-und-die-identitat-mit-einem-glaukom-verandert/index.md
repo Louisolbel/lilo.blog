@@ -32,9 +32,9 @@ Peter Widmer wurde 1949 auf dem Längenberg geboren. Er ist seit zwölf Jahren i
 
 **Welche Herausforderungen hast du aufgrund der Sehstörung erlebt?** Das Einschneidendste war, als der Augenarzt gesagt hat, dass ich nicht mehr Autofahren kann. Wir wohnen auf dem Land ohne ÖV, da kannst du entweder eine halbe Stunde zu Fuss gehen oder du hast jemanden der dich fährt. Du kannst auch nicht mehr rennen oder schnell die Treppe hochspringen. Es muss jetzt alles langsam gehen. 
 
-**Welche Unterstützung hast du von deiner Familie, Freunden oder vom medizinischen Personal erhalten?**Ich bin jedenfalls sehr froh um die Unterstützung von Veronique (Ehefrau). Sie sorgt jetzt von morgens bis abends für mich und das finde ich super. Sie fährt für mich Auto. Durch sie bin immer noch mobil und kann reisen. 
+**Welche Unterstützung hast du von deiner Familie, Freunden oder vom medizinischen Personal erhalten?** Ich bin jedenfalls sehr froh um die Unterstützung von Veronique (Ehefrau). Sie sorgt jetzt von morgens bis abends für mich und das finde ich super. Sie fährt für mich Auto. Durch sie bin immer noch mobil und kann reisen. 
 
-> Es gibt immer eine Lösung, für jeden Bereich.
+> Du kannst auch nicht mehr rennen oder schnell die Treppe hochspringen. Es muss jetzt alles langsam gehen. 
 
 **Inwiefern hat die Diagnose psychische Auswirkungen gehabt?** Es gibt Momente, in denen man verzweifelt. Da denkt man, ich habe mein Leben gelebt. Man regt sich auf, weil einem vieles nicht mehr gelingt. Und da wäre es fatal, wenn man alleine Leben würde, ohne die positiven Impulse von aussen, so dass man sich sogar umbringen würde.
 
