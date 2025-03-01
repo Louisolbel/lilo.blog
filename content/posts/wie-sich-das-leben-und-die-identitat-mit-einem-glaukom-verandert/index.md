@@ -17,7 +17,7 @@ Im Interview werden eindrückliche Erfahrungen eines an Glaukom erkrankten Mensc
 Die Aare fliesst langsam an uns vorbei. Die Boote bewegen sich mit der Strömung und die Ketten rasseln an den Anlegepfosten. Die Sonne scheint silbrig auf das grüne Wasser und wärmt uns das Gesicht. Die Sitzbank ist kühl und die feuchte Luft lässt mich frösteln. Der Uferweg ist noch feucht vom nächtlichen Regen. Peter Widmer ist mir freundlich zugewandt, sein Blick ist klar, so dass man nicht vermuten würde, dass er mich nur noch in Umrissen erkennen kann.
 
 {{<box>}}
-Peter Widmer wurde 1949 auf dem Längenberg geboren. Er ist seit zwölf Jahren im Ruhestand und bereist seither mit seiner Ehefrau regelmässig die Welt. Das Interview fand im ersten Teil in Büren a. A. und in einem zweiten Teil über WhatsApp statt, da sich Peter Widmer unterdessen in Costa Rica befindet. 
+Peter Widmer wurde 1949 auf dem Längenberg geboren. Er ist seit zwölf Jahren im Ruhestand und bereist seither mit seiner Ehefrau regelmässig die Welt. Das Interview fand im ersten Teil in Büren an der Aare und in einem zweiten Teil über WhatsApp statt, da sich Peter Widmer unterdessen in Costa Rica befindet. 
 {{</box>}}
 
 **Louis:** **Wie hast du bemerkt, dass du die Diagnose „Glaukom“ hast?** 
@@ -32,9 +32,7 @@ Peter Widmer wurde 1949 auf dem Längenberg geboren. Er ist seit zwölf Jahren i
 
 **Welche Herausforderungen hast du aufgrund der Sehstörung erlebt?** Das Einschneidendste war, als der Augenarzt gesagt hat, dass ich nicht mehr Autofahren kann. Wir wohnen auf dem Land ohne ÖV, da kannst du entweder eine halbe Stunde zu Fuss gehen oder du hast jemanden der dich fährt. Du kannst auch nicht mehr rennen oder schnell die Treppe hochspringen. Es muss jetzt alles langsam gehen. 
 
-**Welche Unterstützung hast du von deiner Familie, Freunden oder vom medizinischen Personal erhalten?**
-
-Ich bin jedenfalls sehr froh um die Unterstützung von Veronique (Ehefrau). Sie sorgt jetzt von morgens bis abends für mich und das finde ich super. Sie fährt für mich Auto. Durch sie bin immer noch mobil und kann reisen. 
+**Welche Unterstützung hast du von deiner Familie, Freunden oder vom medizinischen Personal erhalten?**Ich bin jedenfalls sehr froh um die Unterstützung von Veronique (Ehefrau). Sie sorgt jetzt von morgens bis abends für mich und das finde ich super. Sie fährt für mich Auto. Durch sie bin immer noch mobil und kann reisen. 
 
 > Es gibt immer eine Lösung, für jeden Bereich.
 
@@ -48,8 +46,6 @@ Ich bin jedenfalls sehr froh um die Unterstützung von Veronique (Ehefrau). Sie 
 
 **Wie gehst du mit der Angst von einer möglichen Erblindung um?** Ja, das geht immer durch den Kopf. Irgendwann kann es kommen, vielleicht bin ich tot, bevor es kommt. Alles ist offen und deshalb mache ich mir noch keine Gedanken. 
 
-**Was hat dir geholfen die Selbstständigkeit zu bewahren? Was hast du für Strategien?**  
-
-Ja, dass man im Leben nie aufgibt und sich bei jeder Situation die unmöglich erscheint, sagt, dass es immer irgendwo eine Tür gibt*.* Es gibt immer eine Lösung, für jeden Bereich. Ich habe nie die Lust verloren und lebe wie vorher. Einfach langsamer, weil meine Augen mir zu wenig Sicherheit geben, um schnell zu Leben. 
+**Was hat dir geholfen die Selbstständigkeit zu bewahren? Was hast du für Strategien?**  Ja, dass man im Leben nie aufgibt und sich bei jeder Situation die unmöglich erscheint, sagt, dass es immer irgendwo eine Tür gibt. Es gibt immer eine Lösung, für jeden Bereich. Ich habe nie die Lust verloren und lebe wie vorher. Einfach langsamer, weil meine Augen mir zu wenig Sicherheit geben, um schnell zu Leben. 
 
 **Hast du Ratschläge für andere Betroffene, die ebenfalls die Diagnose haben?** Lebe nicht allein, wenn du keine Unterstützung hast, wird es schwierig. Und ich glaube, das ist auch in der Natur von uns Menschen.
