@@ -17,7 +17,7 @@ Im Interview werden eindrückliche Erfahrungen eines an Glaukom erkrankten Mensc
 Die Aare fliesst langsam an uns vorbei. Die Boote bewegen sich mit der Strömung und die Ketten rasseln an den Anlegepfosten. Die Sonne scheint silbrig auf das grüne Wasser und wärmt uns das Gesicht. Die Sitzbank ist kühl und die feuchte Luft lässt mich frösteln. Der Uferweg ist noch feucht vom nächtlichen Regen. Peter Widmer ist mir freundlich zugewandt, sein Blick ist klar, so dass man nicht vermuten würde, dass er mich nur noch in Umrissen erkennen kann.
 
 {{<box>}}
-Peter Widmer wurde 1949. Er ist seit zwölf Jahren im Ruhestand und bereist seither mit seiner Ehefrau regelmässig die Welt. Das Interview fand im ersten Teil in Büren a. A. und in einem zweiten Teil über WhatsApp statt, da sich Peter Widmer unterdessen in Costa Rica befindet. 
+Peter Widmer wurde 1949 auf dem Längenberg geboren. Er ist seit zwölf Jahren im Ruhestand und bereist seither mit seiner Ehefrau regelmässig die Welt. Das Interview fand im ersten Teil in Büren a. A. und in einem zweiten Teil über WhatsApp statt, da sich Peter Widmer unterdessen in Costa Rica befindet. 
 {{</box>}}
 
 **Louis:** **Wie hast du bemerkt, dass du die Diagnose „Glaukom“ hast?** 
