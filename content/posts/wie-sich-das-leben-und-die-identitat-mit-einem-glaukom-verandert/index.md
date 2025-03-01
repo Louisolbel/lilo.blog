@@ -4,7 +4,7 @@ date = "2025-02-28"
 draft = false
 pinned = false
 tags = ["Identität", "Glaukom"]
-image = "r.jpeg"
+image = "whatsapp-bild-2025-03-01-um-10.40.05_d224c972.jpg"
 +++
 ![Peter Widmer in Costa Rica](herunterladen-2-.png)
 
