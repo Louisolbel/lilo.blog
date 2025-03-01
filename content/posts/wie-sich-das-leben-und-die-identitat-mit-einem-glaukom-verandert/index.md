@@ -6,7 +6,7 @@ pinned = false
 tags = ["Identität", "Glaukom"]
 image = "r.jpeg"
 +++
-![](9a6084e034624aed8d8e89473847a07d.jpg)
+![](herunterladen-2-.png)
 
 ![]()
 
@@ -14,7 +14,7 @@ image = "r.jpeg"
 Im Interview werden eindrückliche Erfahrungen eines an Glaukom erkrankten Menschen geschildert. Themen wie die initiale Hoffnung, Abhängigkeit und Verzweiflung, aber auch Unterstützung und Zuversicht kommen zum Ausdruck.
 {{</lead>}}
 
-Die Aare fliesst langsam an uns vorbei. Die Boote bewegen sich mit der Strömung und die Ketten rasseln an den Anlegepfosten. Die Sonne scheint silbrig auf das grüne Wasser und wärmt uns das Gesicht. Die Sitzbank ist kühl und die feuchte Luft lässt mich frösteln. Der Uferweg ist noch feucht vom nächtlichen Regen. Peter Widmer ist mir freundlich zugewandt, sein Blick ist klar, so dass man nicht vermuten würde, dass er mich nur noch in Umrissen er-kennen kann.
+Die Aare fliesst langsam an uns vorbei. Die Boote bewegen sich mit der Strömung und die Ketten rasseln an den Anlegepfosten. Die Sonne scheint silbrig auf das grüne Wasser und wärmt uns das Gesicht. Die Sitzbank ist kühl und die feuchte Luft lässt mich frösteln. Der Uferweg ist noch feucht vom nächtlichen Regen. Peter Widmer ist mir freundlich zugewandt, sein Blick ist klar, so dass man nicht vermuten würde, dass er mich nur noch in Umrissen erkennen kann.
 
 {{<box>}}
 Peter Widmer wurde 1949. Er ist seit zwölf Jahren im Ruhestand und bereist seither mit seiner Ehefrau regelmässig die Welt. Das Interview fand im ersten Teil in Büren a. A. und in einem zweiten Teil über WhatsApp statt, da sich Peter Widmer unterdessen in Costa Rica befindet. 
